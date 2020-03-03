@@ -4,6 +4,7 @@
   "description": "A hand-drawn illustration library.",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "generate": "babel-node src/main.js generate",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

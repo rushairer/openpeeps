@@ -8,7 +8,7 @@ module.exports = {
     entry: './src/main.js',
     target: 'node',
     output: {
-        filename: 'iochain.js',
+        filename: 'openpeeps.js',
         path: path.resolve(__dirname, 'dist')
     },
     node: {
